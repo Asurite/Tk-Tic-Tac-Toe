@@ -224,7 +224,6 @@ b9.place(x=200,y=300)
 
 
 restart = Button(root,text="Restart",fg="blue",bg="aquamarine",width = 10,height=1,font=("Courier",10,"bold"),command = Restart)
-##restart.place(x=105,y=470)
 restart.place(x=1000,y=1000)
 
 
